@@ -1,6 +1,6 @@
 ## banking-customer-segmentation
-# Enhancing Banking Services with Customer Segmentation and Classification
-# Collaborated on the CIS graduation project focusing on model development and deployment.
+Enhancing Banking Services with Customer Segmentation and Classification
+Collaborated on the CIS graduation project focusing on model development and deployment.
 
 ## Project Overview
 This project aims to enhance banking services by analyzing customer data and providing actionable insights through segmentation and classification.
@@ -20,6 +20,13 @@ This project aims to enhance banking services by analyzing customer data and pro
 - Automated customer segmentation for better banking decision-making.  
 - Real-time customer classification accessible via the Flutter app.  
 - Seamless deployment of ML model to production.
+  
+## Demo
+Check out the project demo:
+
+[![Demo Video](https://i.ibb.co/pnVkY2x/demo-thumbnail.png)](https://ibb.co/pnVkY2x)  
+
+*Click the image to view the demo video.*
   
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)

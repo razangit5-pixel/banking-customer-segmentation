@@ -24,7 +24,6 @@ This project aims to enhance banking services by analyzing customer data and pro
 ## 🎬 Demo
 
 [![Demo Video](https://i.ibb.co/pnVkY2x/demo-thumbnail.png)](https://ibb.co/pnVkY2x)  
-Watch the demo video here: [Demo Video](https://ibb.co/pnVkY2x)
 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  

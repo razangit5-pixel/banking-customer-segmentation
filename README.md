@@ -22,11 +22,10 @@ This project aims to enhance banking services by analyzing customer data and pro
 - Seamless deployment of ML model to production.
 
 ## 🎬 Demo
-Check out the project demo:
 
 [![Demo Video](https://i.ibb.co/pnVkY2x/demo-thumbnail.png)](https://ibb.co/pnVkY2x)  
+Watch the demo video here: [Demo Video](https://ibb.co/pnVkY2x)
 
-[![Demo Video](https://i.ibb.co/pnVkY2x/demo-thumbnail.png)](https://ibb.co/pnVkY2x)  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
